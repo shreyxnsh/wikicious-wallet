@@ -1,5 +1,9 @@
 # Wikicious Decentralized Crypto Exchange Wallet
 
+- Wikicious Wallet has been inspired by unstoppable-wallet-android, where I have changed all the configurations of the project and made it similar to Wikicious' website color scheme.
+
+- APK Link : https://drive.google.com/file/d/1ZXorbhT2qg0tNDZKQYvKOFHJKxxjw2iQ/view?usp=sharing
+
 ## Screenshots
 
 <img src="https://github.com/shreyxnsh/VTOP/assets/88729972/690215aa-f511-4245-9abe-b1652187cd1d" width="30%"></img> 
