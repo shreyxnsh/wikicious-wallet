@@ -2,24 +2,15 @@
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td>Splash Screen</td>
-     <td>OnBoarding Screen</td>
-     <td>Home Screen</td>
-    <tr>
-    </tr>
-    <td>Different Categories</td>
-    <td>Detailed View</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/88729972/212486520-35219669-99ef-4cf9-8ef5-1cb2aaddb8a7.jpg" width="30%" height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/88729972/212486549-300389b8-5a14-4297-82e3-0266a10cc956.jpg" width="30%" height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/88729972/212486546-a292d6e4-9f41-42ff-a35b-b1ed3d74d771.jpg" width="30%" height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/88729972/212486544-6b7baa56-e0a5-4280-b84d-67a699c6f43d.jpg" width="30%" height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/88729972/212486547-c8b7406a-ddc6-4a1f-835e-cef2e2327c0b.jpg" width="30%" height=480></td>
-  </tr>
- </table>
+<img src="https://github.com/shreyxnsh/VTOP/assets/88729972/690215aa-f511-4245-9abe-b1652187cd1d" width="30%"></img> 
+<img src="https://github.com/shreyxnsh/VTOP/assets/88729972/c88676b3-377e-4e9e-8371-12303f75a112" width="30%"></img> 
+<img src="https://github.com/shreyxnsh/VTOP/assets/88729972/16a959cb-955b-4efe-a6a0-5df0fad16df8" width="30%"></img> 
+<img src="https://github.com/shreyxnsh/VTOP/assets/88729972/0a0af9bb-abce-48d5-8574-ce4e7ac35469" width="30%"></img> 
+<img src="https://github.com/shreyxnsh/VTOP/assets/88729972/83e369cc-ef2b-442e-979b-391dc5992eb5" width="30%"></img> 
+<img src="https://github.com/shreyxnsh/VTOP/assets/88729972/efe58c1b-f15b-4049-b255-0efa8e548417" width="30%"></img> 
+<img src="https://github.com/shreyxnsh/VTOP/assets/88729972/44db8159-1a1d-42ae-bf15-29364333119e" width="30%"></img> 
+<img src="https://github.com/shreyxnsh/VTOP/assets/88729972/edd11bb0-8263-44f4-bee3-5529a36873e7" width="30%"></img> 
+<img src="https://github.com/shreyxnsh/VTOP/assets/88729972/fadebf5e-19fd-4ac2-8348-af2b24f4a3fc" width="30%"></img>
 
  
 ## License
