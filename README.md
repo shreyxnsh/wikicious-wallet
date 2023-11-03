@@ -1,35 +1,25 @@
-# Unstoppable Wallet
+# Wikicious Decentralized Crypto Exchange Wallet
 
-We dream of a world… A world where private property is untouchable and market access is unconditional.
+## Screenshots
 
-That obsession led us to engineer a crypto wallet that is equally open to all, lives online forever and unconditionally protects your assets.
+<table>
+  <tr>
+    <td>Splash Screen</td>
+     <td>OnBoarding Screen</td>
+     <td>Home Screen</td>
+    <td>Different Categories</td>
+    <td>Detailed View</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/88729972/212486520-35219669-99ef-4cf9-8ef5-1cb2aaddb8a7.jpg" width=337 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/88729972/212486549-300389b8-5a14-4297-82e3-0266a10cc956.jpg" width=337 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/88729972/212486546-a292d6e4-9f41-42ff-a35b-b1ed3d74d771.jpg" width=337 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/88729972/212486544-6b7baa56-e0a5-4280-b84d-67a699c6f43d.jpg" width=337 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/88729972/212486547-c8b7406a-ddc6-4a1f-835e-cef2e2327c0b.jpg" width=337 height=480></td>
+  </tr>
+ </table>
 
-Unstoppable is a powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. It provides non-custodial crypto and NFT storage, on-chain decentralized swaps, institutional grade analytics for cryptocurrency and NFT markets, extensive privacy controls and human oriented design. 
-
- - It is built with care and adheres to best programming practices and implementation standards in cryptocurrency world. Fully implemented on Kotlin.
- - It is fully peer-to-peer and works without any centrally managed servers. It can't be stopped, blocked or taken down.
-
-Such approach enables the wallet to operate anywhere and remain censorship-resistant. Only the user is in control of the money.
-
-More at [https://unstoppable.money](https://unstoppable.money)
-
-## Supported Android Versions
-
-Devices with Android versions 8.1 and above
-
-## Download
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/io.horizontalsystems.bankwallet/)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet)
-
-## Source Code
-
-[https://github.com/horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android)
-
+ 
 ## License
 
 This wallet is open source and available under the terms of the MIT License.
