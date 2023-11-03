@@ -7,6 +7,8 @@
     <td>Splash Screen</td>
      <td>OnBoarding Screen</td>
      <td>Home Screen</td>
+    <tr>
+    </tr>
     <td>Different Categories</td>
     <td>Detailed View</td>
   </tr>
