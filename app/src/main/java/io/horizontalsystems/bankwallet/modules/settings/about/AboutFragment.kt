@@ -204,7 +204,7 @@ fun AboutHeader(appVersion: String) {
     ) {
         Image(
             modifier = Modifier.size(72.dp),
-            painter = painterResource(id = R.drawable.ic_app_logo_72),
+            painter = painterResource(id = R.drawable.wikicioussvg),
             contentDescription = null,
         )
         Column(
